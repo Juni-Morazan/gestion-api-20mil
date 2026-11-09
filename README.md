@@ -1,4 +1,4 @@
-Proyecto gestion GOT basado en SpringBoot
+Gestión · versión B
 
 En desarrollo, vuelve a visitarnos en unos dias...!
 
